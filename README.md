@@ -66,3 +66,6 @@ Proyek ini dibuat untuk meningkatkan keterampilan siswa dalam **pemrograman Pyth
 
 ✨ Selamat belajar & berkreasi! ✨
 https://wayground.com/join?gc=20958482
+
+Link Latihan Soal CRUD Python
+https://wayground.com/join?gc=48640402
