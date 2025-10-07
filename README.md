@@ -69,3 +69,6 @@ https://wayground.com/join?gc=20958482
 
 Link Latihan Soal CRUD Python
 https://wayground.com/join?gc=48640402
+
+Latihan Soal Fitur Checkout
+https://wayground.com/join?gc=59579826
